@@ -1,0 +1,8 @@
+body {
+    background-color: #ffb6c1;
+    text-align: center;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
