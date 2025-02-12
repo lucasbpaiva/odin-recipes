@@ -9,7 +9,7 @@ body {
 }
 
 img {
-    width: 500px;
+    width: 50%;
     height: auto;
 }
 
@@ -20,4 +20,21 @@ img {
 
 p {
     text-align: justify;
+}
+
+li {
+    text-align: left;
+}
+
+.no-bullets li {
+    text-align: center;
+}
+
+.Description, .Ingredients, .Steps {
+    margin: 40px auto;
+}
+
+#return-home {
+    display: block;
+    margin-bottom: 40px;
 }
