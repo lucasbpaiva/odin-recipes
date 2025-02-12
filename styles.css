@@ -1,5 +1,5 @@
 body {
-    background-color: #FCE7C8;
+    background-color: #fce7c8;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -11,4 +11,9 @@ body {
 img {
     width: 500px;
     height: auto;
+}
+
+.recipe-body {
+    width: 50%;
+    margin: auto;
 }
